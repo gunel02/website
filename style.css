@@ -10,8 +10,17 @@ body{
     text-align: center;
     margin: 0;
 }
+#p1{
+    font-weight: lighter;
+}
+
+
+li{
+    font-weight: lighter;
+}
     
 h1{
+    color: #333333;
     font-size: 4rem;
     margin-bottom: 0;
 }
@@ -64,6 +73,7 @@ img{
 
 .img-text{
     margin: 15px 0 5px 0;
+    font-weight: lighter;
 }
 @media (max-width:460px){
     .img-text{
@@ -85,6 +95,12 @@ ul{
 
 li{
     margin: 16px 0;
+}
+.par{
+    font-weight: lighter;
+}
+cite{
+    font-weight: lighter;
 }
 
 
